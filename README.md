@@ -6,6 +6,7 @@ Simulation on Forage - June 2025
  * Completed a simulation involving creating data visualizations for Tata
    Consultancy Services
  * Prepared questions for a meeting with client senior leadership
+ * Cleaned the data set (Data set with 6 lakh+ rows)
  * Created visuals for data analysis to help executives with effective decision
    making
 
