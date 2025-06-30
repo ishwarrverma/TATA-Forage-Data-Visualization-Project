@@ -34,8 +34,8 @@ The dashboards were presented directly to both the **CEO and CMO**, demonstratin
 📁 Screenshots/ → Dashboard screenshots (for each question)
 
 ---
-## 📦 Project Objective & Requirements PDF (./Objective-&-Requirements.pdf)
-(./Objective-&-Requirements.pdf)
+## 📦 Project Objective & Requirements PDF
+ [Objective and Requirements.pdf](/Objective-&-Requirements.pdf)
 ## 🖼️ Dashboard Previews
 
 ![Q1](./Screenshots/Page1.png)
