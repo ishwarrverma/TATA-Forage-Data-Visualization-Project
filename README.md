@@ -30,11 +30,12 @@ The dashboards were presented directly to both the **CEO and CMO**, demonstratin
 
 📁 Dashboard.pbix → Power BI dashboard file (.pbix)
 📁 Objective-&-Requirements.pdf → PDF with Objective and business questions
-📁 Online Retail Data Set.xlsx → Source dataset (.xlsx)
+📁 Data-Set.xlsx → Source dataset (.xlsx)
 📁 Screenshots/ → Dashboard screenshots (for each question)
 
 ---
-
+## 📦 Project Objective & Requirements PDF (./Objective-&-Requirements.pdf)
+(./Objective-&-Requirements.pdf)
 ## 🖼️ Dashboard Previews
 
 ![Q1](./Screenshots/Page1.png)
